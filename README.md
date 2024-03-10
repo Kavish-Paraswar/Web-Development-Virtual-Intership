@@ -1,4 +1,5 @@
 # Web-Development-Virtual-Intership
+
  This repository serves as a collection of projects completed during a one-month virtual internship at Coding Raja Technologies, focusing on web development. The tasks completed include:
 
 Task 1: Simple Online CV Builder -This project involves the creation of an intuitive online tool for building CVs (Curriculum Vitae). Users can easily craft and customize their resumes using a simple interface.
